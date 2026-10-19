@@ -1,4 +1,7 @@
-﻿﻿# Hướng dẫn cài đặt và chạy hệ thống (On-boarding Guide)
+# KiemThuPhanMem-Nhom24
+Bài tập lớn môn Kiểm thử phần mềm - ĐH Đà Lạt
+
+# Hướng dẫn cài đặt và chạy hệ thống (On-boarding Guide)
 **Đề tài:** Phân tích nopCommerce (R04) & Model-Based Testing (K02)  
 **Nhóm:** 24  
 * Thành viên: Nguyễn Đức Hoàng (Leader), Nguyễn Trần Quỳnh Hương, Phanthamala Somsavath, Y Kina Niê
